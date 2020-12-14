@@ -22,7 +22,7 @@ lang: ru
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-use Orchid\Filter\Filterable;
+use Orchid\Filters\Filterable;
 
 class Post extends Model
 {
